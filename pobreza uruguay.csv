@@ -1,0 +1,267 @@
+"departamento",año,valor
+"Montevideo",2006,24.5
+"Artigas",2006,39.6
+"Canelones",2006,21.2
+"Cerro Largo",2006,33.5
+"Colonia",2006,17
+"Durazno",2006,27.7
+"Flores",2006,19.4
+"Florida",2006,20.1
+"Lavalleja",2006,21.9
+"Maldonado",2006,13.4
+"Paysandu",2006,26
+"Rio Negro",2006,22.2
+"Rivera",2006,35
+"Rocha",2006,25.3
+"Salto",2006,29.2
+"San José",2006,20.8
+"Soriano",2006,24.5
+"Tacuarembó",2006,30.3
+"Treinta y Tres",2006,27.1
+"Montevideo",2007,22
+"Artigas",2007,36.6
+"Canelones",2007,19.6
+"Cerro Largo",2007,27.3
+"Colonia",2007,15.6
+"Durazno",2007,25.7
+"Flores",2007,14
+"Florida",2007,17.3
+"Lavalleja",2007,18.1
+"Maldonado",2007,9.9
+"Paysandu",2007,23.1
+"Rio Negro",2007,18.6
+"Rivera",2007,31.8
+"Rocha",2007,20.2
+"Salto",2007,23.3
+"San José",2007,16.8
+"Soriano",2007,19.1
+"Tacuarembó",2007,25.8
+"Treinta y Tres",2007,23.1
+"Montevideo",2008,19
+"Artigas",2008,31.7
+"Canelones",2008,13.1
+"Cerro Largo",2008,22
+"Colonia",2008,12.3
+"Durazno",2008,22.3
+"Flores",2008,9.7
+"Florida",2008,17.6
+"Lavalleja",2008,11
+"Maldonado",2008,7.5
+"Paysandu",2008,16.5
+"Rio Negro",2008,15.5
+"Rivera",2008,27.1
+"Rocha",2008,14.6
+"Salto",2008,20.3
+"San José",2008,11.9
+"Soriano",2008,14.7
+"Tacuarembó",2008,21.2
+"Treinta y Tres",2008,23.3
+"Montevideo",2009,17.1
+"Artigas",2009,26.1
+"Canelones",2009,11.5
+"Cerro Largo",2009,18
+"Colonia",2009,8.5
+"Durazno",2009,13.6
+"Flores",2009,7.5
+"Florida",2009,12.3
+"Lavalleja",2009,11.3
+"Maldonado",2009,4.4
+"Paysandu",2009,15.2
+"Rio Negro",2009,12.8
+"Rivera",2009,17.9
+"Rocha",2009,12.8
+"Salto",2009,17.5
+"San José",2009,9.2
+"Soriano",2009,13
+"Tacuarembó",2009,17.6
+"Treinta y Tres",2009,16.4
+"Montevideo",2010,14.6
+"Artigas",2010,26.9
+"Canelones",2010,9.9
+"Cerro Largo",2010,16.8
+"Colonia",2010,6.3
+"Durazno",2010,16.2
+"Flores",2010,6.1
+"Florida",2010,10
+"Lavalleja",2010,9.4
+"Maldonado",2010,5.2
+"Paysandu",2010,11.9
+"Rio Negro",2010,9.4
+"Rivera",2010,15.2
+"Rocha",2010,10.4
+"Salto",2010,15.6
+"San José",2010,8.6
+"Soriano",2010,10.1
+"Tacuarembó",2010,14.1
+"Treinta y Tres",2010,13.9
+"Montevideo",2011,11.6
+"Artigas",2011,16
+"Canelones",2011,7.3
+"Cerro Largo",2011,13.7
+"Colonia",2011,2.6
+"Durazno",2011,8.4
+"Flores",2011,5.6
+"Florida",2011,6.2
+"Lavalleja",2011,7
+"Maldonado",2011,3.4
+"Paysandu",2011,6.2
+"Rio Negro",2011,8.4
+"Rivera",2011,16.3
+"Rocha",2011,6.6
+"Salto",2011,10.7
+"San José",2011,5.8
+"Soriano",2011,4.5
+"Tacuarembó",2011,13.2
+"Treinta y Tres",2011,9.6
+"Montevideo",2012,11.3
+"Artigas",2012,11.5
+"Canelones",2012,6.4
+"Cerro Largo",2012,10.1
+"Colonia",2012,2.2
+"Durazno",2012,5.4
+"Flores",2012,3.5
+"Florida",2012,5.5
+"Lavalleja",2012,4.7
+"Maldonado",2012,2.1
+"Paysandu",2012,7.1
+"Rio Negro",2012,6.4
+"Rivera",2012,12.9
+"Rocha",2012,5.7
+"Salto",2012,7.4
+"San José",2012,4.2
+"Soriano",2012,5.4
+"Tacuarembó",2012,8.8
+"Treinta y Tres",2012,9.3
+"Montevideo",2013,10.4
+"Artigas",2013,13.7
+"Canelones",2013,5.9
+"Cerro Largo",2013,8.1
+"Colonia",2013,1.1
+"Durazno",2013,6.8
+"Flores",2013,3
+"Florida",2013,4.7
+"Lavalleja",2013,3.7
+"Maldonado",2013,2
+"Paysandu",2013,5.6
+"Rio Negro",2013,7.8
+"Rivera",2013,13.7
+"Rocha",2013,6
+"Salto",2013,6.7
+"San José",2013,4.3
+"Soriano",2013,4.1
+"Tacuarembó",2013,8.2
+"Treinta y Tres",2013,4.9
+"Montevideo",2014,8.5
+"Artigas",2014,9.1
+"Canelones",2014,4.5
+"Cerro Largo",2014,8.4
+"Colonia",2014,2.5
+"Durazno",2014,5.1
+"Flores",2014,3.1
+"Florida",2014,4.3
+"Lavalleja",2014,4.2
+"Maldonado",2014,2
+"Paysandu",2014,3.6
+"Rio Negro",2014,5.6
+"Rivera",2014,11
+"Rocha",2014,5.6
+"Salto",2014,5
+"San José",2014,2.2
+"Soriano",2014,3.4
+"Tacuarembó",2014,9.1
+"Treinta y Tres",2014,7.8
+"Montevideo",2015,8.7
+"Artigas",2015,6.9
+"Canelones",2015,4.2
+"Cerro Largo",2015,7.5
+"Colonia",2015,2.2
+"Durazno",2015,5.5
+"Flores",2015,0.8
+"Florida",2015,3.9
+"Lavalleja",2015,3.8
+"Maldonado",2015,2.9
+"Paysandu",2015,5.9
+"Rio Negro",2015,6
+"Rivera",2015,11.3
+"Rocha",2015,5.7
+"Salto",2015,4.8
+"San José",2015,1.1
+"Soriano",2015,3.2
+"Tacuarembó",2015,8.1
+"Treinta y Tres",2015,8.3
+"Montevideo",2016,8.3
+"Artigas",2016,9.5
+"Canelones",2016,4.4
+"Cerro Largo",2016,7.5
+"Colonia",2016,2.8
+"Durazno",2016,5.6
+"Flores",2016,2.3
+"Florida",2016,3.5
+"Lavalleja",2016,5.4
+"Maldonado",2016,2.1
+"Paysandu",2016,4.6
+"Rio Negro",2016,2.6
+"Rivera",2016,11.7
+"Rocha",2016,4.8
+"Salto",2016,3.6
+"San José",2016,1.5
+"Soriano",2016,3.1
+"Tacuarembó",2016,8
+"Treinta y Tres",2016,8.8
+"Montevideo",2017,7.3
+"Artigas",2017,8.5
+"Canelones",2017,3.3
+"Cerro Largo",2017,6.2
+"Colonia",2017,1.8
+"Durazno",2017,4.8
+"Flores",2017,1.5
+"Florida",2017,3.7
+"Lavalleja",2017,2.8
+"Maldonado",2017,1.8
+"Paysandu",2017,4.3
+"Rio Negro",2017,3
+"Rivera",2017,8.8
+"Rocha",2017,3.9
+"Salto",2017,5.9
+"San José",2017,1.3
+"Soriano",2017,2.6
+"Tacuarembó",2017,4.3
+"Treinta y Tres",2017,6.1
+"Montevideo",2018,7.3
+"Artigas",2018,7.1
+"Canelones",2018,3
+"Cerro Largo",2018,7.5
+"Colonia",2018,1.8
+"Durazno",2018,4.7
+"Flores",2018,1.7
+"Florida",2018,2.8
+"Lavalleja",2018,3.8
+"Maldonado",2018,1.7
+"Paysandu",2018,4.7
+"Rio Negro",2018,3.4
+"Rivera",2018,9.2
+"Rocha",2018,3.9
+"Salto",2018,5.2
+"San José",2018,1.4
+"Soriano",2018,3.7
+"Tacuarembó",2018,4.7
+"Treinta y Tres",2018,7.4
+"Montevideo",2019,8.1
+"Artigas",2019,7.1
+"Canelones",2019,3.8
+"Cerro Largo",2019,6.3
+"Colonia",2019,2.2
+"Durazno",2019,6.2
+"Flores",2019,2.2
+"Florida",2019,2.8
+"Lavalleja",2019,4.5
+"Maldonado",2019,1.5
+"Paysandu",2019,5.3
+"Rio Negro",2019,4.6
+"Rivera",2019,9.2
+"Rocha",2019,3.5
+"Salto",2019,5.9
+"San José",2019,1.4
+"Soriano",2019,4.4
+"Tacuarembó",2019,6.2
+"Treinta y Tres",2019,8.7
